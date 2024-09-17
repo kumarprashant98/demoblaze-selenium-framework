@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" name="C:/Users/prashant/IdeaProjects/DemoblazePracticePOM/src/test">
+        <classes>
+            <class name="demoblaze.AddToCartTest">
+            </class><class name="demoblaze.EndToEndTest">
+        </class><class name="demoblaze.LoginTest">
+        </class><class name="demoblaze.NavigateToUrlTest">
+        </class><class name="demoblaze.SignupTest">
+<!--            <methods>-->
+<!--                <exclude name="verifyThatValidationMessageIsDisplayedAfterClickingOnSignUpButtonWithInvalidData">-->
+<!--                </exclude>-->
+<!--            </methods>-->
+        </class><class name="phptravels.SearchTripsTest">
+        </class>
+        </classes>
+    </test>
+</suite>
